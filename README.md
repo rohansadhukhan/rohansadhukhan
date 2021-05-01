@@ -8,8 +8,9 @@ Here are some ideas to get you started: -->
 <h1>Rohan Sadhukhan</h1>
 
 
-- 🔭 I’m currently working on android development with kotlin
-- 🌱 I’m currently learning kotlin
+- 🔭 I’m currently working on fullstack application blog web app Conduit
+- 🌱 I’m currently learning react js
+- 👯 I’m looking for fullstack internships
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
